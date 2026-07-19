@@ -1,6 +1,8 @@
 # SPINNING CUBE
 
-It is a, you won't beleve it, SPINNING CUBE (in C)
+Terminal based spinning cube 
+
+<img src="https://example.com/path/to/brain.gif" alt="Brain meme" width="400">
 
 ---
 
