@@ -6,4 +6,4 @@ Terminal based spinning cube
 
 ---
 
-***Made by execRooted***
+***Made by execRooted, obviously***
